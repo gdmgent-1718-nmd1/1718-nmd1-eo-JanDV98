@@ -16,3 +16,7 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+body{
+    width: 800px;
+}
