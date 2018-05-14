@@ -9,6 +9,8 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    width: 800px;
+}
 }
 
 img {
@@ -17,6 +19,3 @@ img {
 
 /* Voeg jouw css hieraan toe */
 
-body{
-    width: 800px;
-}
