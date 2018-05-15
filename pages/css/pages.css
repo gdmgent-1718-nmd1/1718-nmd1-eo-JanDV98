@@ -58,6 +58,16 @@ a{
     color: #DE8B6C;
 }
 
+.ok{ 
+    list-style-image: url("../images/if_f-check_256_282474.png");
+    
+}
+
+.nok{ 
+    list-style-image: url("../images/if_Erase_32464.png");
+    
+}
+
     /* 
     
     hsla(16, 64, 65, 1); 
